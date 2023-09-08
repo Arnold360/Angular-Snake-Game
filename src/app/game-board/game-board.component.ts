@@ -13,7 +13,7 @@ export class GameBoardComponent implements OnInit, AfterViewInit {
   lastRenderTime = 0
   gameOver = false
   gameBoard: any;
-  SNAKE_SPEED = 1;
+  SNAKE_SPEED = 2;
   snake = new Snake();
   food = new Food(this.snake);
   constructor() { }
