@@ -11,7 +11,7 @@
     "deploy-github": "ng deploy --base-href=/Angular-Snake-Game/"
   },
    "devDependencies": {
-    "@angular-devkit/build-angular": "^16.2.1",
+    "@angular-devkit/build-angular": "^11.1.2",
     "@angular/cli": "^11.1.2",
     "@angular/compiler-cli": "~11.1.0",
     "@types/jasmine": "~3.6.0",
